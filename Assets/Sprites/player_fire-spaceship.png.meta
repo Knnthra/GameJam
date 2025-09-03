@@ -171,7 +171,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      player_fire-spaceship_0: -4264844816592680871
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

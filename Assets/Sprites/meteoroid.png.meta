@@ -171,7 +171,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      meteoroid_0: -7424142239235650171
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
