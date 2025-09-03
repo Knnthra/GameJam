@@ -196,9 +196,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      enemy_03_fire-spaceship_0: -812969156490533842
-      enemy_03_fire-spaceship_1: -2684308119800889759
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
